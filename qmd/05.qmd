@@ -1,0 +1,95 @@
+---
+title: "📝 Título 04"
+---
+
+## Título IV: Del tratamiento de datos personales por los órganos públicos
+
+
+### Artículo 20
+
+**Artículo 20º**.- Regla general del tratamiento de datos por órganos públicos. Es lícito el tratamiento de los datos personales que efectúan los órganos públicos cuando se realiza para el cumplimiento de sus funciones legales dentro del ámbito de sus competencias, de conformidad a las normas establecidas en la ley y a las disposiciones previstas en este Título. En esas condiciones, los órganos públicos actúan como responsables de datos y no requieren el consentimiento del titular para tratar sus datos personales.
+
+
+### Artículo 21
+
+**Artículo 21º**.- Principios y normas aplicables al tratamiento de datos de los órganos públicos. El tratamiento de los datos personales que realicen los órganos públicos se rige por los principios establecidos en el artículo 3º de esta ley y los principios generales que rigen la Administración del Estado, especialmente los principios de coordinación, probidad y eficiencia.
+
+En virtud del principio de coordinación, los organismos públicos deben alcanzar un alto grado de interoperabilidad y coherencia, de modo de evitar contradicciones en la información almacenada y reiteración de requerimientos de información o documentos a los titulares de datos. Conforme al principio de eficiencia, se debe evitar la duplicación de procedimientos y trámites entre los organismos públicos y entre éstos y los titulares de la información.
+
+Sin perjuicio de las demás normas establecidas en el presente Título, son aplicables al tratamiento de datos que efectúen los órganos públicos las disposiciones establecidas en los artículos 2º, 14, 14 bis, 14 ter, 14 quáter, 14 quinquies, 14 sexies y 15 bis, los artículos del Párrafo Segundo y Tercero del Título II, los artículos del Título V y los artículos del Título VII de esta ley. Asimismo, le son aplicables los artículos 4º, 5º, 6º, 7º y 8º en conformidad a lo dispuesto en el artículo 23.
+
+
+### Artículo 22
+
+**Artículo 22º**.- Comunicación o cesión de datos por un órgano público. Los órganos públicos están facultados para comunicar o ceder datos personales específicos, o todo o parte de sus bases de datos o conjuntos de datos, a otros órganos públicos, siempre que la comunicación o cesión de los datos resulte necesaria para el cumplimiento de sus funciones legales y ambos órganos actúen dentro del ámbito de sus competencias. La comunicación o cesión de los datos se debe realizar para un tratamiento específico y el órgano público receptor no los podrá utilizar para otros fines.
+
+Asimismo, se podrá comunicar o ceder datos o bases de datos personales entre organismos públicos, exclusivamente cuando ellos se requieran para un tratamiento que tenga por finalidad otorgar beneficios al titular, evitar duplicidad de trámites para los ciudadanos o reiteración de requerimientos de información o documentos para los mismos titulares.
+
+El órgano público receptor de los datos sólo puede conservarlos por el tiempo necesario para efectuar el tratamiento específico para el cual fueron requeridos, luego de lo cual deberán ser suprimidos o anonimizados. Estos datos se podrán almacenar por un tiempo mayor cuando el órgano público requiera atender reclamaciones o impugnaciones, realizar actividades de control o seguimiento, o sirvan para dar garantía de las decisiones adoptadas.
+
+Para los efectos de poder comunicar o ceder datos personales a personas o entidades privadas, los organismos públicos deberán contar con el consentimiento del titular, salvo que la comunicación o cesión de datos sea necesaria para cumplir las funciones del organismo público en materia de fiscalización o inspección.
+
+Cuando se trate de comunicar o ceder datos personales en virtud de una solicitud de acceso a la información formulada con arreglo a lo establecido en el artículo 10 de la ley N° 20.285, los organismos públicos deberán contar con el consentimiento del titular obtenido en la oportunidad prevista en el artículo 20 de dicha ley.
+
+Respecto de la comunicación de los datos relativos a infracciones penales, civiles, administrativas y disciplinarias, se aplicará lo dispuesto en el artículo 25.
+
+Los organismos públicos deberán informar mensualmente a través de su página web institucional los convenios suscritos con otros organismos públicos y con entidades privadas relativos a cesión o transferencia de datos personales. Esta obligación será fiscalizada por la Agencia.
+
+
+**Artículo 23º**.- Ejercicio de los derechos del titular, procedimiento administrativo de tutela y reclamo de ilegalidad. El titular de datos podrá ejercer ante el órgano público los derechos de acceso, rectificación y oposición que le reconoce esta ley. El titular también podrá oponerse a un tratamiento específico cuando éste sea contrario a las disposiciones de este Título. El titular podrá ejercer el derecho de supresión en los casos previstos en el inciso tercero del artículo anterior.
+
+Los organismos públicos no acogerán las solicitudes de acceso, rectificación, oposición, supresión o bloqueo temporal de los datos personales en los siguientes casos:
+
+**a)** Cuando con ello se impida o entorpezca el cumplimiento de las funciones fiscalizadoras, investigativas, de protección a víctimas y testigos, o sancionatorias del organismo público.
+
+**b)** Cuando con ello se afecte el carácter secreto de la información establecido por la ley.
+
+El ejercicio de los derechos del titular se deberá realizar de acuerdo al procedimiento establecido en el artículo 11 de esta ley, dirigiéndose al jefe superior del servicio.
+
+El titular podrá reclamar ante la Agencia cuando el organismo público le haya denegado en forma expresa o tácita una solicitud en que ejerce cualquiera de los derechos que le reconoce esta ley. La reclamación se sujetará a las normas previstas en el procedimiento administrativo de tutela de derechos establecido en el artículo 41.
+
+
+### Artículo 24
+
+**Artículo 24º**.- Regímenes especiales. El tratamiento, comunicación o cesión de datos personales sensibles, realizado por órganos públicos competentes en las materias que a continuación se indican, estarán sujetos exclusivamente al régimen de regulación especial establecido en este artículo:
+
+**a)** Aquéllos que se realicen con fines de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, incluidas las actividades de protección y prevención frente a las amenazas y riesgos contra la seguridad pública, protección a víctimas y testigos, análisis criminal y reportabilidad de la información criminal. Respecto de los datos que se realicen con esta finalidad, no será aplicable lo dispuesto en el artículo 25.
+
+**b)** Aquéllos en materias relacionadas directamente con la seguridad de la Nación, la defensa nacional y la política exterior del país.
+
+**c)** Aquéllos realizados con el objeto exclusivo de atender una situación de emergencia o catástrofe, declarada de conformidad a la ley y sólo mientras permanezca vigente esta declaración.
+
+**d)** Aquéllos que se encuentren protegidos por normas de secreto, reserva o confidencialidad, establecidas en sus respectivas leyes. Dentro de esta excepción se entienden también comprendidos los datos que, en cumplimiento de una obligación legal, los órganos públicos deban ceder a otro órgano público o a terceros, debiendo en tal caso el receptor tratarlos manteniendo la misma obligación de secreto, reserva o confidencialidad.
+
+Los órganos públicos correspondientes podrán tratar, ceder y comunicar datos personales de forma lícita, siempre y cuando se realice para el cumplimiento de sus funciones legales, dentro del ámbito de sus competencias y respetando las garantías fundamentales establecidas en el artículo 19, N° 4, de la Constitución Política de la República y los principios establecidos en el artículo 3°.
+
+Con el objeto de realizar los tratamientos, cesiones y comunicaciones de datos para la finalidad prevista en las letras **a)**, **b)** y **c)** anteriores, los órganos públicos y sus autoridades estarán obligadas a intercambiar información y proporcionar los datos personales que les sean requeridos para estos fines, siempre que se refieran a tratamientos que se realicen con una finalidad específica autorizada por ley o, cuando esto no sea posible, el requerimiento sea una medida necesaria y proporcional.
+
+La Agencia de Protección de Datos Personales podrá, oyendo previamente a los órganos competentes, dictar instrucciones para especificar la forma de aplicar las referidas garantías y principios a los casos mencionados, de manera de asegurar su resguardo y permitir el debido cumplimiento de las funciones legales de los órganos correspondientes.
+
+### Artículo 25
+
+**Artículo 25º**.- Datos relativos a infracciones penales, civiles, administrativas y disciplinarias. Los datos personales relativos a la comisión y sanción de infracciones penales, civiles, administrativas y disciplinarias sólo pueden ser tratados por los organismos públicos para el cumplimiento de sus funciones legales, dentro del ámbito de sus competencias y en los casos expresamente previstos en la ley.
+
+En las comunicaciones que realicen los organismos públicos, con ocasión del tratamiento de estos datos personales, deberán velar en todo momento porque la información comunicada o hecha pública sea exacta, suficiente, actual y completa.
+
+No podrán comunicarse o hacerse públicos los datos personales relativos a la comisión y condena de infracciones penales, civiles, administrativas o disciplinarias, una vez prescrita la acción penal, civil, administrativa o disciplinaria respectiva, o una vez que se haya cumplido o prescrito la pena o la sanción impuesta, lo que deberá ser declarado o constatado por la autoridad pública competente. Lo anterior es sin perjuicio de la incorporación, mantenimiento y consulta de esta información en los registros que llevan los órganos públicos por expresa disposición de la ley, en la forma y por el tiempo previsto en la ley que establece la obligación específica correspondiente. Las personas que se desempeñen en los órganos públicos están obligadas a guardar secreto respecto de esta información, la que deberá ser mantenida como información reservada.
+
+Cuando la ley disponga que la información relativa a la comisión y sanción de infracciones penales, civiles, administrativas y disciplinarias deba hacerse pública a través de su incorporación en un registro de sanciones, o su publicación en el sitio web de un órgano público o en cualquier otro medio de comunicación o difusión, sin fijar un período de tiempo durante el cual deba permanecer disponible esta información, se seguirán las siguientes reglas:
+
+**a)** Respecto de las infracciones penales, los plazos de publicidad se regirán por las normas particulares que rigen para este tipo de infracciones.
+
+**b)** Respecto de las infracciones civiles, administrativas y disciplinarias, permanecerán accesibles al público por el período de cinco años.
+
+Se prohíbe el tratamiento masivo de los datos personales contenidos en los registros electrónicos de infracciones penales, civiles, administrativas y disciplinarias que lleven los organismos públicos. El incumplimiento de esta prohibición constituye una infracción gravísima de conformidad a esta ley.
+
+Exceptúanse de la prohibición de comunicación los casos en que la información sea solicitada por los tribunales de justicia u otro organismo público para el cumplimiento de sus funciones legales y dentro del ámbito de su competencia, quienes deberán mantener la debida reserva.
+
+No obstante lo dispuesto en el inciso tercero del presente artículo, los datos personales relativos a la comisión y sanción de infracciones penales revisten carácter reservado y, salvo las disposiciones legales que autorizan su tratamiento, no podrán ser comunicados o cedidos a terceras personas por los organismos públicos que los posean.
+
+
+### Artículo 26
+
+**Artículo 26º**.- Reglamento. Las condiciones, modalidades e instrumentos para la comunicación o cesión de datos personales entre organismos públicos y con personas u organismos privados, se regularán a través de un reglamento expedido por el Ministerio Secretaría General de la Presidencia y suscrito por el Ministro de Hacienda y por el Ministro de Economía, Fomento y Turismo, previo informe de la Agencia. En este mismo reglamento se regularán los procedimientos de anonimización de los datos personales, especialmente los datos personales sensibles.
+
+Con todo, este reglamento no será aplicable a aquellas cesiones en las que tenga participación alguno de los órganos a los que se refiere el Título VIII de esta ley.

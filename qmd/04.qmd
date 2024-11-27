@@ -1,0 +1,62 @@
+---
+title: "📝 Título 03"
+---
+
+## Título  III: De la utilización de datos personales relativos a obligaciones de carácter económico, financiero, bancario o comercial
+
+
+### Artículo 17
+
+**Artículo 17º**.- Regla general del tratamiento de datos relativos a obligaciones de carácter financiero, bancario o comercial. Los responsables de las bases de datos personales sólo podrán comunicar información que verse sobre obligaciones de carácter económico, financiero, bancario o comercial, cuando éstas consten en letras de cambio y pagarés protestados; cheques protestados por falta de fondos, por haber sido girados contra cuenta corriente cerrada o por otra causa; como asimismo el cumplimiento o incumplimiento de obligaciones derivadas de mutuos hipotecarios y de préstamos o créditos de bancos, sociedades financieras, administradoras de mutuos hipotecarios, cooperativas de ahorros y créditos, organismos públicos y empresas del Estado sometidas a la legislación común, y de sociedades administradoras de créditos otorgados para compras en casas comerciales. Se exceptúa la información relacionada con los créditos concedidos por el Instituto Nacional de Desarrollo Agropecuario a sus usuarios, y la información relacionada con obligaciones de carácter económico, financiero, bancario o comercial en cuanto hayan sido repactadas, renegociadas o novadas, o éstas se encuentren con alguna modalidad pendiente.
+
+También podrán comunicarse aquellas otras obligaciones de dinero que determine el Presidente de la República mediante decreto supremo, las que deberán estar sustentadas en instrumentos de pago o de crédito válidamente emitidos, en los cuales conste el consentimiento expreso del deudor u obligado al pago y su fecha de vencimiento. No podrá comunicarse la información relacionada con las deudas contraídas con empresas públicas o privadas que proporcionen servicios de electricidad, agua, teléfono y gas; tampoco las deudas contraídas con instituciones de educación superior de conformidad a las leyes números 18.591 y 19.287, ni aquellas adquiridas con bancos o instituciones financieras de conformidad a la ley Nº 20.027, o en el marco de las líneas de financiamiento a estudiantes para cursar estudios en educación superior, administradas por la Corporación de Fomento de la Producción, ni alguna deuda contraída con la finalidad de recibir para sí o para terceros un servicio educacional formal en cualquiera de sus niveles; ni las deudas contraídas con prestadores de salud públicos o privados y empresas relacionadas, sean instituciones financieras, casas comerciales u otras similares, en el marco de una atención o acción de salud ambulatoria, hospitalaria o de emergencia sean éstas consultas, procedimientos, exámenes, programas, cirugías u operaciones; tampoco podrán comunicarse las deudas contraídas con concesionarios de autopistas por el uso de su infraestructura.
+
+Las entidades responsables que administren bases de datos personales no podrán publicar o comunicar la información referida en el presente artículo, en especial los protestos y morosidades contenidas en él, cuando éstas se hayan originado durante el período de cesantía que afecte al deudor.
+
+Para estos efectos, la Administradora de Fondos de Cesantía comunicará los datos de sus beneficiarios al Boletín de Informaciones Comerciales sólo mientras subsistan sus beneficios para los efectos de que éste bloquee la información concerniente a tales personas.
+
+Sin embargo, las personas que no estén incorporadas al seguro de cesantía deberán acreditar dicha condición ante el Boletín de Informaciones Comerciales, acompañando el finiquito extendido en forma legal o, si existiese controversia, con el acta de comparecencia ante la Inspección del Trabajo, para los efectos de impetrar este derecho por tres meses renovable hasta por una vez. Para que opere dicha renovación se deberá adjuntar una declaración jurada del deudor en la que manifieste que mantiene su condición de cesante.
+
+El bloqueo de datos será sin costo para el deudor.
+
+No procederá el bloqueo de datos respecto de quienes consignen anotaciones en el sistema de información comercial durante el año anterior a la fecha de término de su relación laboral.
+
+Las entidades responsables de la administración de bases de datos personales no podrán señalar bajo ninguna circunstancia, signo o caracterización que la persona se encuentra beneficiada por esta ley.
+
+
+### Nota:
+
+Los artículos 1º, 2º y 3º transitorios de la **Ley 19812**, publicada el 13.06.2002, establecen en relación con el presente artículo, lo siguiente:
+
+**Artículo 1° transitorio**.- Los responsables de los registros o bases de datos personales que traten información señalada en el artículo 17 de la ley N° 19.628 no podrán comunicarla cuando se refiera a obligaciones que, a la fecha de publicación de esta ley, hayan sido pagadas o se hayan extinguido por otro modo legal. Asimismo, no podrán comunicar los datos relativos a esas obligaciones que se hayan hecho exigibles antes del 1º de mayo de 2002 y se encuentren impagas, siempre que el total de obligaciones impagas del titular que comunique el registro o base de datos a la fecha de publicación de esta ley sea inferior a $2.000.000 por concepto de capital, excluyendo intereses, reajustes y cualquier otro rubro. En el caso de los incisos anteriores, tampoco podrá proporcionarse información al titular de los datos, ni comunicarse el hecho de que éste haya sido beneficiado con esas disposiciones.
+
+**Artículo 2º transitorio**.-
+
+
+> **NOTA**:
+> Los artículos 1º, 2º y 3º transitorios de la LEY 19812, publicada el 13.06.2002, establecen enrelación con el presente artículo, lo siguiente: "Artículo 1° transitorio.- Los responsables de losregistros o bancos de datos personales que traten información señalada en el artículo 17 de la leyN° 19.628 no podrán comunicarla cuando se refiera a obligaciones que, a la fecha de publicación deesta ley, hayan sido pagadas o se hayan extinguido por otro modo legal. Asimismo, no podráncomunicar los datos relativos a esas obligaciones que se hayan hecho exigibles antes del 1º de mayode 2002 y se encuentren impagas, siempre que el total de obligaciones impagas del titular quecomunique el registro o banco de datos a la fecha de publicación de esta ley sea inferior a $2.000000 por concepto de capital, excluyendo intereses, reajustes y cualquier otro rubro. En el caso delos incisos anteriores, tampoco podrá proporcionarse información al titular de los datos, nicomunicarse el hecho de que éste haya sido beneficiado con esas disposiciones. Artículo 2ºtransitorio.- Los responsables de los registros o bancos de datos personales que comuniqueninformación sobre las obligaciones a que se refiere el artículo 17 de la ley Nº 19.628 eliminarántodos los datos relacionados con créditos concedidos por el Instituto Nacional de DesarrolloAgropecuario a sus usuarios. Artículo 3º transitorio.-  Los deudores del Banco del Estado de Chileque al 30 de septiembre de 1999 obtuvieron créditos en el marco del programa de créditos paraestablecimiento por cuenta propia de chilenos retornados y que hayan optado, dentro del plazoestablecido, a los beneficios que les otorga la ley Nº 19.740, una vez aclarada la morosidad yprevia solicitud, serán borrados definitivamente del o los registros históricos que existan sobrelos documentos señalados en el artículo 17.".
+
+
+
+### Artículo 18
+
+
+
+**Artículo 18º**.- Limitación del tratamiento de datos para obligaciones financieras, bancarias o comerciales. En ningún caso pueden comunicarse los datos a que se refiere el artículo anterior, que se relacionen con una persona identificada o identificable, luego de transcurridos cinco años desde que la respectiva obligación se hizo exigible.
+
+Tampoco se podrá continuar comunicando los datos relativos a dicha obligación después de haber sido pagada o haberse extinguido por otro modo legal.
+
+Con todo, se comunicará a los tribunales de Justicia la información que requieran con motivo de juicios pendientes.
+
+
+
+
+### Artículo 19
+
+**Artículo 19º**.- Efectos de la extinción de la obligación económica, bancaria o comercial. El pago o la extinción de estas obligaciones por cualquier otro modo no produce la caducidad o la pérdida de fundamento legal de los datos respectivos para los efectos del artículo 4º, mientras estén pendientes los plazos que establece el artículo precedente.
+
+Al efectuarse el pago o extinguirse la obligación por otro modo en que intervenga directamente el acreedor, éste avisará tal hecho, a más tardar dentro de los siguientes siete días hábiles, al responsable del registro o base de datos accesible al público que en su oportunidad comunicó el protesto o la morosidad, a fin de que consigne el nuevo dato que corresponda, previo pago de la tarifa si fuere procedente, con cargo al deudor. El deudor podrá optar por requerir directamente la modificación a la base de datos y liberar del cumplimiento de esa obligación al acreedor que le entregue constancia suficiente del pago; decisiones que deberá expresar por escrito.
+
+Quienes efectúen el tratamiento de datos personales provenientes o recolectados de la aludida fuente accesible al público deberán modificar los datos en el mismo sentido tan pronto aquélla comunique el pago o la extinción de la obligación, o dentro de los tres días siguientes. Si no les fuera posible, bloquearán los datos del respectivo titular hasta que esté actualizada la información.
+
+La infracción de cualquiera de estas obligaciones se conocerá y sancionará de conformidad a lo dispuesto en el Título VII de esta ley.

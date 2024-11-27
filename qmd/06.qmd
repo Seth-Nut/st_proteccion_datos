@@ -1,0 +1,62 @@
+---
+title: "📝 Título 05"
+---
+
+## Título V: De la transferencia internacional de datos personales
+
+
+### Artículo 27
+
+**Artículo 27º**.- Regla general de autorización Cumpliéndose los requisitos que, de conformidad a esta ley, autorizan al tratamiento de datos, son lícitas las operaciones de transferencia internacional de datos en cualquiera de los siguientes casos:
+
+**a)** Cuando la transferencia se realice a una persona, entidad u organización pública o privada sujeta al ordenamiento jurídico de un país que proporcione niveles adecuados de protección de datos personales, de conformidad a lo dispuesto en el artículo 28.
+
+**b)** Cuando la transferencia de datos quede amparada por cláusulas contractuales, normas corporativas vinculantes u otros instrumentos jurídicos suscritos entre el responsable que efectúa la transferencia y el responsable o tercero mandatario que la reciba, y en ellas se establezcan garantías adecuadas de conformidad a lo dispuesto en el artículo 28.
+
+**c)** Cuando el responsable que efectúa la transferencia y el responsable o tercero mandatario que la recibe adopten un modelo de cumplimiento o mecanismo de certificación, y en ellos se establezcan garantías adecuadas de conformidad con el artículo 28.
+
+En ausencia de una decisión de adecuación o de garantías adecuadas, se podrá realizar una transferencia específica y que no sea habitual si se cumple alguno de los siguientes supuestos:
+
+**a)** Cuando exista consentimiento expreso del titular de datos para realizar una transferencia internacional de datos específica y determinada.
+
+**b)** Cuando se refiera a transferencias bancarias, financieras o bursátiles específicas y que se realicen conforme a las leyes que regulan estas transferencias.
+
+**c)** Cuando se deban transferir datos para dar cumplimiento a obligaciones adquiridas en tratados o convenios internacionales que hayan sido ratificados por el Estado chileno y se encuentren vigentes.
+
+**d)** Cuando la transferencia resulte necesaria por aplicación de convenios de cooperación, intercambio de información o supervisión que hayan sido suscritos por órganos públicos para el cumplimiento de sus funciones y en el ejercicio de sus competencias.
+
+**e)** Cuando la transferencia de datos realizada por una persona natural o jurídica, pública o privada, haya sido autorizada expresamente por la ley y para una finalidad determinada.
+
+**f)** Cuando la transferencia sea efectuada con el objeto de prestar o solicitar colaboración judicial internacional.
+
+**g)** Cuando la transferencia sea necesaria para la celebración o ejecución de un contrato entre el titular y el responsable, o para la ejecución de medidas precontractuales adoptadas a solicitud del titular.
+
+**h)** Cuando sea necesario adoptar medidas urgentes en materia médica o sanitaria para la prevención o diagnóstico de enfermedades, para tratamientos médicos o para la gestión de servicios sanitarios o de salud.
+
+### Artículo 28
+
+**Artículo 28º**.- Regla de determinación de países adecuados y demás normas aplicables a la transferencia internacional de datos. Se entiende que el ordenamiento jurídico de un país posee niveles adecuados de protección de datos, cuando cumple con estándares similares o superiores a los fijados en esta ley. La Agencia determinará fundadamente los países que poseen niveles adecuados de protección de datos considerando, a lo menos, los siguientes:
+
+**a)** El establecimiento de principios que rigen el tratamiento de los datos personales.
+
+**b)** La existencia de normas que reconozcan y garanticen los derechos de los titulares de datos y la existencia de una autoridad pública jurisdiccional o administrativa de control o tutela.
+
+**c)** La imposición de obligaciones de información y seguridad a los responsables del tratamiento de los datos y terceros mandatarios.
+
+**d)** La determinación de responsabilidades en caso de infracciones.
+
+Se considerarán garantías adecuadas aquellos instrumentos, mecanismos o cláusulas que contengan similares o mayores principios, derechos y garantías a aquéllas que ofrece la presente ley, y en particular, que otorguen derechos exigibles y acciones legales efectivas a los titulares de los datos. La Agencia podrá aprobar cláusulas modelo y otros instrumentos jurídicos, sólo si contienen dichas garantías para el flujo transfronterizo de datos, los cuales estarán a disposición de los responsables. Las cláusulas modelo y otros instrumentos jurídicos que establezcan garantías adecuadas aprobados por la Agencia no requerirán ninguna otra garantía adicional ni autorización.
+
+La Agencia pondrá en su página web a disposición de los interesados un listado de países adecuados y modelos tipo de cláusulas contractuales y otros instrumentos jurídicos para la transferencia internacional de datos.
+
+Cuando la transferencia se efectúe entre sociedades o entidades que pertenezcan a un mismo grupo empresarial, empresas relacionadas o sujetas a un mismo controlador en los términos previstos en la Ley de Mercado de Valores, siempre que todas ellas operen bajo los mismos estándares y políticas en materia de tratamiento de datos personales, las transferencias podrán quedar amparadas en normas corporativas vinculantes previamente aprobadas por la Agencia. El responsable que efectúe la transferencia de datos asumirá la responsabilidad por cualquier infracción a los estándares y políticas corporativas vinculantes en que incurra alguno de los miembros del grupo empresarial. El responsable sólo podrá exonerarse de esta responsabilidad cuando acredite que la infracción no fue imputable al miembro del grupo empresarial correspondiente.
+
+Cuando no se verifique ninguna de las circunstancias señaladas en el artículo anterior, la Agencia podrá autorizar, mediante resolución fundada, la transferencia internacional de datos para un caso particular, siempre que el transmisor y el receptor de los datos otorguen las garantías adecuadas en relación con la protección de los derechos de las personas que son titulares de estos datos y la seguridad de la información transferida, de conformidad con la presente ley.
+
+Corresponderá al responsable de datos que efectuó la transferencia internacional de datos acreditar ante la Agencia que ésta se practicó de conformidad a las reglas establecidas en esta ley.
+
+
+### Artículo 29
+
+**Artículo 29º**.- Fiscalización. La Agencia fiscalizará las operaciones de transferencia internacional de datos, pudiendo formular
+ recomendaciones, adoptar medidas conservativas y, en casos calificados, suspender temporalmente el envío de los datos.

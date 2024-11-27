@@ -1,0 +1,19 @@
+---
+title: "📝 Título 08"
+---
+
+## Título VIII: Del tratamiento de datos personales por el Congreso Nacional, el Poder Judicial y organismos públicos dotados de autonomía constitucional
+
+### Artículo 54
+
+**Artículo 54º**.- Regla general del tratamiento de datos personales. Es lícito el tratamiento de los datos personales que efectúan el Congreso Nacional, el Poder Judicial, la Contraloría General de la República, el Ministerio Público, el Tribunal Constitucional, el Banco Central, el Servicio Electoral y la Justicia Electoral, y los demás tribunales especiales creados por ley, cuando se realiza para el cumplimiento de sus funciones legales, dentro del ámbito de sus competencias y, de conformidad a las normas especiales que se establecen en sus respectivas leyes orgánicas y a las disposiciones del Título IV de esta ley aplicables a los órganos públicos, con excepción de lo dispuesto en el artículo 14 quinquies y en los artículos 44 a 46, en lo referido a la intervención de la Contraloría General de la República en la determinación de la responsabilidad administrativa y la aplicación de la ley N° 18.834. Los funcionarios de estos organismos deberán guardar secreto de tales datos. En esas condiciones estas instituciones y organismos tienen la calidad de responsables de datos y no requieren el consentimiento del titular para efectuar el tratamiento de sus datos personales.
+
+Las autoridades superiores de los órganos internos de estas instituciones deberán dictar las políticas, normas e instrucciones necesarias para dar cumplimiento a los principios y obligaciones establecidos en esta ley, especialmente aquéllas que permitan el ejercicio de los derechos que se reconocen a los titulares de datos y las que fijan los estándares o condiciones mínimas de control, seguridad y resguardo que se deben observar en el tratamiento de los datos personales, pudiendo requerir para ello la asistencia técnica de la Agencia. Asimismo, las autoridades de estos órganos ejercerán la potestad disciplinaria respecto de sus funcionarios, en relación a las infracciones que se produzcan en el tratamiento de los datos personales, particularmente las infracciones señaladas en los artículos 34 bis, 34 ter y 34 quáter.
+
+### Artículo 55
+
+**Artículo 55º**.- Ejercicio de los derechos y reclamaciones. Los titulares de datos ejercerán los derechos que les reconoce esta ley ante el Congreso Nacional, el Poder Judicial, la Contraloría General de la República, el Ministerio Público, el Tribunal Constitucional, el Banco Central, el Servicio Electoral y la Justicia Electoral, y los demás tribunales especiales creados por ley, de acuerdo a procedimientos racionales y justos, y ante los organismos que dispongan estas instituciones, de conformidad a lo señalado en el artículo anterior.
+
+En caso que la Contraloría General de la República, el Ministerio Público, el Banco Central o el Servicio Electoral denieguen injustificada o arbitrariamente el ejercicio de un derecho reconocido por esta ley a un titular de datos, o bien infrinjan algún principio establecido en el artículo 3°, deber u obligación establecida en ella, causándole perjuicio, el titular que se vea agraviado o afectado por la decisión del organismo, podrá reclamar ante la Corte de Apelaciones, de acuerdo al procedimiento dispuesto en el artículo 43 de esta ley.
+
+Las autoridades superiores del Congreso Nacional, del Poder Judicial, del Tribunal Constitucional, de la Justicia Electoral y de los demás tribunales especiales creados por ley, deberán asegurarse que en el tratamiento de los datos personales que realizan estas instituciones se cumplen estrictamente con los principios establecidos en el artículo 3° y los deberes, y se respeten los derechos de los titulares establecidos en esta ley, adoptando las medidas de fiscalización y control interno que resulten necesarias y adecuadas para esta finalidad.

@@ -1,0 +1,79 @@
+---
+title: "📝 Título Preliminar"
+---
+
+## Título Preliminar: Disposiciones generales
+
+
+### Artículo 1
+
+**Artículo 1º**.- Objeto y ámbito de aplicación. La presente ley tiene por objeto regular la forma y condiciones en la cual se efectúa el tratamiento y protección de los datos personales de las personas naturales, en conformidad al artículo 19, N° 4, de la Constitución Política.
+
+Todo tratamiento de datos personales que realice una persona natural o jurídica, incluidos los órganos públicos, debe respetar los derechos y libertades de las personas y quedará sujeto a las disposiciones de esta ley.
+
+El régimen de tratamiento y protección de datos establecidos en esta ley no se aplicará al tratamiento de datos que se realice en el ejercicio de las libertades de emitir opinión y de informar reguladas por las leyes a que se refiere el artículo 19, N° 12, de la Constitución Política de la República. Los medios de comunicación social quedarán sujetos a las disposiciones de esta ley en lo relativo al tratamiento de datos que efectúen con una finalidad distinta a la de opinar e informar. 
+
+Tampoco serán aplicables las normas de la presente ley al tratamiento de datos que efectúen las personas naturales en relación con sus actividades personales.”.
+
+**Artículo 1° bis**.- Ámbito de aplicación territorial. Las disposiciones de la presente ley se aplicarán al tratamiento de datos personales que se realice bajo cualquiera de las siguientes circunstancias: 
+
+a) Cuando el responsable o mandatario esté establecido o constituido en el territorio nacional. 
+
+b) Cuando el mandatario, con independencia de su lugar de establecimiento o constitución, realice las operaciones de tratamiento de datos personales a nombre de un responsable establecido o constituido en el territorio nacional. 
+
+c) Cuando el responsable o mandatario no se encuentren establecidos en el territorio nacional pero sus operaciones de tratamiento de datos personales estén destinadas a ofrecer bienes o servicios a titulares que se encuentren en Chile, independientemente de si a éstos se les requiere un pago, o a monitorear el comportamiento de titulares que se encuentran en el territorio nacional, incluyendo su análisis, rastreo, perfilamiento o predicción de comportamiento. 
+
+La presente ley también se aplicará al tratamiento de datos personales que sea realizado por un responsable al que, sin estar establecido en el territorio nacional, le resulte aplicable la legislación nacional a causa de un contrato o del derecho internacional.”.
+
+
+
+### Artículo 2
+
+**Artículo 2°**.- Definiciones:
+
+- a) **Almacenamiento de datos**: la conservación o custodia de datos en un registro o base de datos.
+- b) **Bloqueo de datos**: la suspensión temporal de cualquier operación de tratamiento de los datosalmacenados.
+- c) **Comunicación de datos personales**: dar a conocer por el responsable de datos, de cualquier forma, datos personales a personas distintas del titular a quien conciernen los datos, sin llegar a cederlos o transferirlos.
+- d) **Dato caduco**: el que ha perdido actualidad por disposición de la ley, por el cumplimiento de lacondición o la expiración del plazo señalado para su vigencia o, si no hubiese norma expresa, por elcambio de los hechos o circunstancias que consigna.
+- e) **Dato estadístico**: el dato que, en su origen, o como consecuencia de su tratamiento, no puede serasociado a un titular identificado o identificable.
+- f) **Dato personal**: cualquier información vinculada o referida a una persona natural identificada o identificable. Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante uno o más identificadores, tales como el nombre, el número de cédula de identidad, el análisis de elementos propios de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona. Para determinar si una persona es identificable deberán considerarse todos los medios y factores objetivos que razonablemente se podrían usar para dicha identificación en el momento del tratamiento.
+- g) **Datos personales sensibles**: tendrán esta condición aquellos datos personales que se refieren a las características físicas o morales de las personas o a hechos o circunstancias de su vida privada o intimidad, que revelen el origen étnico o racial, la afiliación política, sindical o gremial, la situación socioeconómica, las convicciones ideológicas o filosóficas, las creencias religiosas, los datos relativos a la salud, al perfil biológico humano, los datos biométricos, y la información relativa a la vida sexual, a la orientación sexual y a la identidad de género de una persona natural.
+- h) **Eliminación o cancelación de datos**: la destrucción de datos almacenados en registros o bancos dedatos, cualquiera fuere el procedimiento empleado para ello.
+- i) **Fuentes de acceso público**: todas aquellas bases de datos o conjuntos de datos personales, cuyo acceso o consulta puede ser efectuada en forma lícita por cualquier persona, tales como el Diario Oficial, medios de comunicación o los registros públicos que disponga la ley. El tratamiento de datos personales provenientes de fuentes de acceso público se someterá a las disposiciones de esta ley.
+- k) **Anonimización**: procedimiento irreversible en virtud del cual un dato personal no puede vincularse o asociarse a una persona determinada, ni permitir su identificación, por haberse destruido o eliminado el nexo con la información que vincula, asocia o identifica a esa persona. Un dato anonimizado deja de ser un dato personal. 
+- l) **Seudonimización**: tratamiento de datos personales que se efectúa de manera tal que ya no puedan atribuirse a un titular sin utilizar información adicional, siempre que dicha información adicional figure por separado y esté sujeta a medidas técnicas y organizativas destinadas a garantizar que los datos personales no se atribuyan a una persona natural identificada o identificable.
+- m) **Base de datos personales**: conjunto organizado de datos personales, cualquiera sea la finalidad, forma o modalidad de su creación, almacenamiento, organización y acceso, que permita relacionar los datos entre sí, así como realizar su tratamiento.
+- n) **Responsable de datos o responsable**: toda persona natural o jurídica, pública o privada, que decide acerca de los fines y medios del tratamiento de datos personales, con independencia de si los datos son tratados directamente por ella o a través de un tercero mandatario o encargado.
+- ñ) **Titular de datos o titular**: persona natural, identificada o identificable, a quien conciernen o se refieren los datos personales. 
+- o) **Tratamiento de datos**: cualquier operación o conjunto de operaciones o procedimientos técnicos, de carácter automatizado o no, que permitan de cualquier forma recolectar, procesar, almacenar, comunicar, transmitir o utilizar datos personales o conjuntos de datos personales.
+- p) **Consentimiento**: toda manifestación de voluntad libre, específica, inequívoca e informada, otorgada a través de una declaración o una clara acción afirmativa, mediante la cual el titular de datos, su representante legal o mandatario, según corresponda, autoriza el tratamiento de los datos personales que le conciernen.
+- q) **Derecho de acceso**: derecho del titular de datos a solicitar y obtener del responsable, confirmación acerca de si sus datos personales están siendo tratados por él, acceder a ellos en su caso, y a la información prevista en esta ley.
+- r) **Derecho de rectificación**: derecho del titular de datos a solicitar y obtener del responsable, que modifique o complete sus datos personales, cuando están siendo tratados por él, y sean inexactos, desactualizados o incompletos.
+- s) **Derecho de supresión**: derecho del titular de datos a solicitar y obtener del responsable, que suprima o elimine sus datos personales, de acuerdo a las causales previstas en la ley. 
+- t) **Derecho de oposición**: derecho del titular de datos a solicitar y obtener del responsable, que no se lleve a cabo un tratamiento de datos determinado, de conformidad a las causales previstas en la ley. 
+- u) **Derecho a la portabilidad de los datos personales**: derecho del titular de datos a solicitar y obtener del responsable, una copia de sus datos personales en un formato electrónico estructurado, genérico y de uso común, que permita ser operado por distintos sistemas, y poder comunicarlos o transferirlos a otro responsable de datos. El titular tendrá derecho a que sus datos personales se transmitan directamente de responsable a responsable cuando sea técnicamente posible.
+- v) **Cesión de datos personales**: transferencia de datos personales por parte del responsable de datos a otro responsable de datos.
+- w) **Elaboración de perfiles**: toda forma de tratamiento automatizado de datos personales que consista en utilizar esos datos para evaluar, analizar o predecir aspectos relativos al rendimiento profesional, situación económica, de salud, preferencias personales, intereses, fiabilidad, comportamiento, ubicación o movimientos de una persona natural.
+- x) **Tercero mandatario o encargado**: la persona natural o jurídica que trate datos personales, por cuenta del responsable de datos.
+- y) **Agencia**: la Agencia de Protección de Datos Personales.
+- z) **Registro Nacional de Sanciones y Cumplimiento**: es un registro nacional de carácter público administrado por la Agencia, que consigna los modelos certificados de prevención, los responsables de datos que los hayan adoptado y las sanciones que se hayan impuesto a los responsables de datos que hayan infringido la ley.
+
+
+### Artículo 3
+
+
+**a) Principios de licitud y lealtad:** Los datos personales sólo pueden tratarse de manera lícita y leal. El responsable deberá ser capaz de acreditar la licitud del tratamiento de datos personales que realiza.
+
+**b) Principio de finalidad:** Los datos personales deben ser recolectados con fines específicos, explícitos y lícitos. El tratamiento de los datos personales debe limitarse al cumplimiento de estos fines. En aplicación de este principio, no se pueden tratar los datos personales con fines distintos a los informados al momento de la recolección, salvo que el tratamiento sea para fines compatibles con los autorizados originalmente; que exista una relación contractual o precontractual entre el titular y el responsable que justifique el tratamiento de los datos con una finalidad distinta, siempre que se enmarque dentro de los fines del contrato o sea coherente con las tratativas o negociaciones previas a la celebración del mismo; el titular otorgue nuevamente su consentimiento y cuando lo disponga la ley.
+
+**c) Principio de proporcionalidad:** Los datos personales que se traten deben limitarse estrictamente a aquellos que resulten necesarios, adecuados y pertinentes en relación con los fines del tratamiento. Los datos personales pueden ser conservados sólo por el período de tiempo que sea necesario para cumplir con los fines del tratamiento, luego de lo cual deben ser suprimidos o anonimizados, sin perjuicio de las excepciones que establezca la ley. Un período de tiempo mayor requiere autorización legal o consentimiento del titular.
+
+**d) Principio de calidad:** Los datos personales deben ser exactos, completos, actuales y pertinentes en relación con su proveniencia y los fines del tratamiento.
+
+**e) Principio de responsabilidad:** Quienes realicen tratamiento de los datos personales serán legalmente responsables del cumplimiento de los principios contenidos en este artículo y de las obligaciones y deberes de conformidad a la ley.
+
+**f) Principio de seguridad:** En el tratamiento de los datos personales, el responsable debe garantizar estándares adecuados de seguridad, protegiéndolos contra el tratamiento no autorizado o ilícito y contra su pérdida, filtración, daño accidental o destrucción. Las medidas de seguridad deben ser apropiadas y acordes con el tratamiento que se vaya a efectuar y con la naturaleza de los datos.
+
+**g) Principio de transparencia e información:** El responsable debe entregar al titular toda la información que sea necesaria para el ejercicio de los derechos que establece esta ley, incluyendo las políticas y las prácticas sobre el tratamiento de los datos personales, las que además deberán encontrarse permanentemente accesibles y a disposición de cualquier interesado de manera precisa, clara, inequívoca y gratuita.
+
+**h) Principio de confidencialidad:** El responsable de datos personales y quienes tengan acceso a ellos deberán guardar secreto o confidencialidad acerca de los mismos. El responsable establecerá controles y medidas adecuadas para preservar el secreto o confidencialidad. Este deber subsiste aún después de concluida la relación con el titular.

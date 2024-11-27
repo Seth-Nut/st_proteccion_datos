@@ -1,0 +1,166 @@
+---
+title: "📝 Título 01"
+---
+
+## Título I: De los derechos del titular de datos personales
+
+### Artículo 4
+
+**Artículo 4º**.- Derechos del titular de datos. Toda persona, actuando por sí o a través de su representante legal o mandatario, según corresponda, tiene derecho de acceso, rectificación, supresión, oposición, portabilidad y bloqueo de sus datos personales, de conformidad con la presente ley.
+
+Tales derechos son personales, intransferibles e irrenunciables, y no pueden limitarse por ningún acto o convención.  
+
+En caso de fallecimiento del titular de datos, los derechos que reconoce esta ley pueden ser ejercidos por sus herederos. 
+
+Con todo, los herederos no podrán acceder a los datos del causante ni solicitar su rectificación o supresión cuando la persona fallecida lo hubiese prohibido expresamente o así lo establezca una ley.
+
+
+### Artículo 5
+
+**Artículo 5º**.- Derecho de acceso. El titular de datos tiene derecho a solicitar y obtener del responsable confirmación acerca de si los datos personales que le conciernen están siendo tratados por él y, en tal caso, acceder a dichos datos y a la siguiente información:
+
+**a)** Los datos tratados y su origen.
+
+**b)** La finalidad o finalidades del tratamiento.
+
+**c)** Las categorías, clases o tipos de destinatarios, o bien la identidad de cada destinatario en caso de solicitarlo así el titular, a los que se les hayan comunicado o cedido los datos o se prevea hacerlo.
+
+**d)** El período de tiempo durante el cual los datos serán tratados.
+
+**e)** Los intereses legítimos del responsable cuando el tratamiento se base en lo dispuesto en el artículo 13 letra d).
+
+**f)** Información significativa sobre la lógica aplicada en el caso de que el responsable realice tratamiento de datos de conformidad con el artículo 8° bis.
+
+El responsable siempre estará obligado a entregar información y a dar acceso a los datos solicitados, excepto cuando una ley disponga expresamente lo contrario.
+
+
+### Artículo 6
+
+**Artículo 6º**.- Derecho de rectificación. El titular de datos tiene derecho a solicitar y obtener del responsable la rectificación de los datos personales que le conciernen y que están siendo tratados por él cuando sean inexactos, desactualizados o incompletos.
+
+Los datos rectificados deberán ser comunicados a las personas, entidades u organismos a los cuales el responsable haya comunicado o cedido los referidos datos, salvo en los casos en que dicha comunicación sea imposible o exija un esfuerzo desproporcionado.
+
+Efectuada la rectificación, no se podrán volver a tratar los datos sin rectificar.
+
+### Artículo 7
+
+**Artículo 7º**.- Derecho de supresión. El titular de datos tiene derecho a solicitar y obtener del responsable la eliminación de los datos personales que le conciernen en los siguientes casos:
+
+**a)** Cuando los datos no resulten necesarios en relación con los fines del tratamiento para el cual fueron recogidos.
+
+**b)** Cuando el titular haya revocado su consentimiento para el tratamiento y éste no tenga otro fundamento legal. 
+
+**c)** Cuando los datos hayan sido obtenidos o tratados ilícitamente por el responsable.
+
+**d)** Cuando se trate de datos caducos.
+
+**e)** Cuando los datos deban suprimirse para el cumplimiento de una sentencia judicial, de una resolución de la autoridad de protección de datos o de una obligación legal.
+
+**f)** Cuando el titular haya ejercido su derecho de oposición de conformidad al artículo siguiente y no exista otro fundamento legal para su tratamiento.
+
+No procede la supresión cuando el tratamiento sea necesario:
+
+**i.** Para ejercer el derecho a las libertades de emitir opinión y de informar.
+
+**ii.** Para el cumplimiento de una obligación legal o la ejecución de un contrato suscrito entre el titular y el responsable.
+
+**iii.** Para el cumplimiento de una función pública o para el ejercicio de una actividad de interés público.
+
+**iv.** Por razones de interés público en el área de la salud pública, de conformidad con las condiciones y garantías establecidas en la ley.
+
+**v.** Para tratamientos con fines históricos, estadísticos o científicos, y para estudios o investigaciones que atiendan fines de interés público.
+
+**vi.** Para la formulación, ejercicio o defensa de una reclamación administrativa o judicial.
+
+
+
+### Artículo 8
+
+**Artículo 8º**.- Derecho de oposición. El titular de datos tiene derecho a oponerse ante el responsable a que se realice un tratamiento específico o determinado de los datos personales que le conciernan en los siguientes casos:
+
+**a)** Cuando la base de licitud del tratamiento sea la satisfacción de intereses legítimos del responsable. En dicho caso, podrá ejercer su derecho de oposición en cualquier momento. El responsable del tratamiento deberá dejar de tratar los datos personales, salvo que acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre los intereses, los derechos y las libertades del titular, o para la formulación, el ejercicio o la defensa de reclamaciones.
+
+**b)** Si el tratamiento se realiza exclusivamente con fines de mercadotecnia o marketing directo de bienes, productos o servicios, incluida la elaboración de perfiles de conformidad con el artículo 8° bis.
+
+**c)** Si el tratamiento se realiza respecto de datos obtenidos de una fuente de acceso público y no existe otro fundamento legal para su tratamiento.
+
+No procederá la oposición al tratamiento cuando éste se realice con fines de investigación científica o histórica, o fines estadísticos, y siempre que fueran necesarios para el cumplimiento de una función pública o para el ejercicio de una actividad de interés público.
+
+
+**Artículo 8º bis**.- Decisiones individuales automatizadas, incluida la elaboración de perfiles. El titular de datos tiene derecho a oponerse y a no ser objeto de decisiones basadas en el tratamiento automatizado de sus datos personales, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente.
+
+El inciso anterior no se aplicará en los siguientes casos:
+
+**a)** Cuando la decisión sea necesaria para la celebración o ejecución de un contrato entre el titular y el responsable.
+
+**b)** Cuando exista consentimiento previo y expreso del titular en la forma prescrita en el artículo 12.
+
+**c)** Cuando lo señale la ley, en la medida en que ésta disponga el empleo de salvaguardas a los derechos y libertades del titular.
+
+En todos los casos de decisiones basadas en el tratamiento automatizado de datos personales, inclusive aquellos señalados en las letras **a)**, **b)** y **c)** precedentes, el responsable deberá adoptar las medidas necesarias para asegurar los derechos y libertades del titular, su derecho a la información y transparencia, el derecho a obtener una explicación, la intervención humana, a expresar su punto de vista y a solicitar la revisión de la decisión.
+
+**Artículo 8º ter**.- Derecho de bloqueo del tratamiento. El titular de datos tiene derecho a solicitar la suspensión temporal de cualquier operación de tratamiento de sus datos personales cuando formule una solicitud de rectificación, supresión u oposición de conformidad con el artículo 11 de la presente ley, mientras dicha solicitud no se resuelva.
+
+Asimismo, el titular podrá ejercer este derecho alternativamente al de supresión en los casos del artículo 7º.
+
+El ejercicio de este derecho no afectará el almacenamiento de los datos por parte del responsable.
+
+### Artículo 9
+
+**Artículo 9º**.- Derecho a la portabilidad de los datos personales. El titular de datos tiene derecho a solicitar y recibir una copia de los datos personales que le conciernen y que haya facilitado al responsable en un formato electrónico, estructurado, genérico y de uso común, que permita ser operado por distintos sistemas y a comunicarlos o transferirlos a otro responsable de datos cuando concurran las siguientes circunstancias:
+
+**a)** El tratamiento se realice en forma automatizada y
+
+**b)** El tratamiento esté basado en el consentimiento del titular.
+
+El responsable debe utilizar los medios más expeditos, menos onerosos y sin poner trabas u obstáculos para el ejercicio de este derecho.
+
+El responsable también debe comunicar al titular de manera clara y precisa las medidas necesarias para obtener sus datos personales y especificar las características técnicas para llevar a cabo estas operaciones.
+
+El titular tendrá derecho a que sus datos personales se transmitan directamente de responsable a responsable cuando sea técnicamente posible.
+
+Con todo, el ejercicio del derecho de portabilidad no supondrá la supresión de los datos ante el responsable cedente, a menos que el titular de ellos así lo pida conjuntamente en la solicitud.
+
+
+### Artículo 10
+
+**Artículo 10º**.- Forma y medios de ejercer los derechos del titular de datos. Los derechos reconocidos en esta ley se ejercen por el titular ante el responsable de datos. Si los datos personales del titular son tratados por diversos responsables, el titular puede ejercer sus derechos ante cualquiera de ellos. 
+
+En el caso de las personas jurídicas no constituidas en Chile, el responsable deberá señalar por escrito ante la Agencia un correo electrónico o un medio de comunicación electrónico equivalente válido y operativo de una persona natural o jurídica capaz de actuar en su nombre para los efectos de que el titular pueda ejercer sus derechos y comunicarse con el responsable, y donde se le practiquen válidamente las comunicaciones y notificaciones administrativas que disponga la ley. El responsable deberá mantener actualizada esta información.
+
+Los responsables de datos deberán implementar mecanismos y herramientas tecnológicas que permitan que el titular ejerza sus derechos de forma expedita, ágil y eficaz. Los medios dispuestos por el responsable deben ser sencillos en su operación.
+
+El ejercicio de los derechos de rectificación, supresión y oposición siempre será gratuito para el titular. El derecho de acceso también se ejercerá en forma gratuita al menos trimestralmente.
+
+El responsable de datos sólo puede exigir el pago de los costos directos en que incurra cuando el titular ejerza su derecho de acceso y derecho a la portabilidad más de una vez en el trimestre. El responsable no podrá exigir este pago en los casos del inciso cuarto del artículo 28.
+
+Los parámetros y mecanismos para determinar los costos derivados del ejercicio de los derechos señalados en el inciso anterior serán determinados por la Agencia a través de una instrucción general que considerará, entre otros antecedentes, el volumen de los datos a ser entregados, la naturaleza jurídica y el tamaño de la entidad o empresa que tenga la calidad de responsable.
+
+La Agencia velará por el efectivo ejercicio y cumplimiento de los derechos que esta ley reconoce al titular de datos, en conformidad con lo dispuesto en esta ley.
+
+
+### Artículo 11
+
+**Artículo 11º**.- Procedimiento ante el responsable de datos. Para ejercer los derechos que le reconoce esta ley, el titular deberá presentar una solicitud o requerimiento escrito ante el responsable, dirigido a la dirección de correo electrónico establecida para este fin, un formulario de contacto o un medio electrónico equivalente. La solicitud deberá contener al menos las siguientes menciones:
+
+**a)** Individualización del titular y de su representante legal o mandatario, según corresponda, y autenticación de su identidad de acuerdo con los procedimientos, formas y modalidades que establezca la Agencia.
+
+**b)** Indicación de un domicilio o una dirección de correo electrónico o de otro medio equivalente para comunicar la respuesta.
+
+**c)** Identificación de los datos personales o del tratamiento determinado respecto de los cuales se ejerce el derecho correspondiente.
+
+**d)** En las solicitudes de rectificación, el titular deberá indicar las modificaciones o actualizaciones precisas a realizar y acompañar, en su caso, los antecedentes que las sustenten. Cuando se trate de solicitudes de supresión, el titular deberá indicar la causal invocada y acompañar los antecedentes que la sustenten, si correspondiere. Para las solicitudes de oposición, el titular deberá indicar la causal invocada y, en el caso de la letra **a)** del artículo 8º, deberá fundamentar brevemente su petición y podrá igualmente acompañar los antecedentes que estime procedentes. En el caso del derecho de acceso, bastará con la individualización del titular.
+
+Recibida la solicitud, el responsable deberá acusar recibo de ella y pronunciarse a más tardar dentro de los treinta días corridos siguientes a la fecha de ingreso de la solicitud. Este plazo podrá ser prorrogado por una sola vez hasta por treinta días corridos.
+
+El responsable deberá responder por escrito al titular a su domicilio o la dirección de correo electrónico fijada por éste. El responsable debe almacenar los respaldos que le permitan demostrar la remisión de la respuesta a la dirección física o electrónica que corresponda, su fecha y el contenido íntegro de ella.
+
+En caso de denegación total o parcial de la solicitud, el responsable deberá fundar su decisión indicando la causa invocada y los antecedentes que la justifican. En esta misma oportunidad, el responsable debe señalar al titular que dispone de un plazo de treinta días hábiles para formular una reclamación ante la Agencia de acuerdo con el procedimiento establecido en el artículo 41.
+
+Transcurrido el plazo al que hace referencia el inciso segundo anterior sin que haya respuesta del responsable, el titular podrá formular directamente una reclamación ante la Agencia en los mismos términos del inciso anterior.
+
+Cuando se formule una solicitud de rectificación, supresión u oposición, el titular tendrá derecho a solicitar y obtener del responsable el bloqueo temporal de sus datos o del tratamiento que realice, según corresponda. La solicitud de bloqueo temporal deberá ser fundada y el responsable deberá responder al requerimiento dentro de los dos días hábiles siguientes a su recepción. En tanto no resuelva esta solicitud, el responsable no podrá tratar los datos del titular que forman parte del requerimiento. El bloqueo temporal de los datos no afectará su almacenamiento por parte del responsable. En caso de rechazo, el responsable deberá fundar su respuesta y comunicar en forma electrónica su decisión a la Agencia. El titular podrá reclamar de esta decisión ante la Agencia aplicándose lo dispuesto en la letra **a)** del inciso segundo del artículo 41.
+
+La rectificación, supresión u oposición al tratamiento de los datos se aplicará sólo respecto de los responsables a quienes se les haya formulado la solicitud. Con todo, cuando el responsable haya comunicado dichos datos a otras personas, deberá comunicar a éstas los cambios realizados en virtud de la rectificación, supresión u oposición.
+
+El titular podrá aportar cualquier otro antecedente que facilite la localización de los datos personales.

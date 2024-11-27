@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "⚖️ Ley de Protección de Datos Personales"
+  author: "Francisco Alfaro"
+  date: "10/10/2024"
+  favicon: "images/icon.png"
+  repo-url: "https://github.com/fralfaro/DMAT-SJ-Olimpiadas"
+  site-url: "https://seth-nut.github.io/website/"
+  search: true
+
+
+  chapters:
+    - index.qmd
+    - qmd/01.qmd
+    - qmd/02.qmd
+    - qmd/03.qmd
+    - qmd/04.qmd
+    - qmd/05.qmd
+    - qmd/06.qmd
+    - qmd/07.qmd
+    - qmd/08.qmd
+    - qmd/09.qmd
+
+index:
+  qmd:
+lang: es
+
+format:
+  html:
+    theme:
+      light: [flatly, stylesheets/custom2.scss]
+      dark: [flatly, stylesheets/custom2.scss, stylesheets/theme-dark.scss]
+    number-sections: false
+    toc: true
+    page-layout: full
+  epub:
+    cover-image: images/icon.png
+
+
+sin-enumeracion: true  # Esta línea es opcional para indicar que no se desea enumeración
