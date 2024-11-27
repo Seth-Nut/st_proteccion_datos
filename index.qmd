@@ -2,9 +2,17 @@
 title: "⚖️ Ley de Protección de Datos Personales"
 ---
 
-# 🏠 Home
+# 🏠 Inicio
 
-## Bienvenidos!
+## ¡Bienvenidos!
 
-Este espacio ha sido creado para explorar y comprender los principios fundamentales de la **Ley de Protección de Datos Personales**. Aquí encontrarás herramientas, explicaciones y actividades prácticas para familiarizarte con los derechos, obligaciones y regulaciones establecidos por esta normativa clave.
+Este espacio está dedicado a explorar de manera detallada las disposiciones de la **Ley de Protección de Datos Personales**. Nuestro objetivo es ofrecerte un recurso claro y accesible para comprender sus principios, derechos y obligaciones.
 
+
+Además, te invitamos a explorar nuestro aplicativo interactivo en **Streamlit** para aprender de manera dinámica y práctica:  
+👉 [Accede al aplicativo aquí](https://ley-datos-personales.streamlit.app/)  
+
+¡Descubre y domina los aspectos esenciales de la protección de datos personales!
+
+
+<img src="images/principios.png" alt="Logo de la Ley de Protección de Datos Personales" width="700">

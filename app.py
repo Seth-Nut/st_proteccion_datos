@@ -117,14 +117,10 @@ def cs_sidebar():
                 2. **📝 Resumen**: Obtén una visión general con resúmenes por título.  
                 3. **🎲 Ejercicios**: Refuerza tu aprendizaje con preguntas interactivas.
         
-                > ¡Explora cada sección y aprende de manera práctica!
+                > **📝 Nota**: Si deseas explorar las leyes en un formato tipo libro, te invitamos a visitar nuestra página en Quarto:   
+                👉 [Ley de Protección de Datos Personales (formato Quarto)](https://seth-nut.github.io/st_proteccion_datos/)
                 """
             )
-
-
-
-
-
 
 
 
@@ -135,7 +131,8 @@ def cs_body():
     st.title("🏛️ Ley Protección de Datos Personales")  # Título de la sección
 
     # Agregar selectbox en el sidebar
-    ley_seleccionada = st.sidebar.selectbox("✏️ Ley Seleccionada:", list(dct_articulos.keys()))
+    #ley_seleccionada = st.sidebar.selectbox("✏️ Ley Seleccionada:", list(dct_articulos.keys()))
+    ley_seleccionada = "Ley Protección de Datos Personales (T)"
 
     # Tab menu
     tab1, tab2, tab3 = st.tabs(
